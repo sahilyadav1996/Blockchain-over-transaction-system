@@ -1,0 +1,2 @@
+# Blockchain-over-transaction-system
+Traditional payments systems do not have the flexibility to detail out the history of ownership of particular period. Though not impossible to retrieve information, but if blockchain technology can provide an efficient payment and network system with more secured encrypted transactions, why not we replace. This technology can save you lot of money as the existing payment systems fail to address the cost reduction in the financial industry.
